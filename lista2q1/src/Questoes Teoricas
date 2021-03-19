@@ -1,0 +1,28 @@
+1 - TAD :
+
+é um conjunto de dados e operações que abstraem uma pessoa/objeto do mundo real.
+por exemplo, uma estrutura de dados de um carro
+
+estruct Carro{
+    QtdRodas;
+    QtdPortas;
+    ConsumoMedio;
+    Km;
+    }
+
+
+2 - Em linguagens orientadas a objeto (C++, JAVA) a
+    implementação é feita usando classes e a
+    especificação usando interfaces.
+
+    
+3  – Usuário só “enxerga” a interface, não a implementação
+   - Reúso: abstração de detalhes da implementação
+específica.
+   - Manutenção: mudanças na implementação do
+TAD não afetam o código fonte dos programas que
+   - utilizam (ocultamento de informação)
+   - Corretude: código testado em diferentes
+contextos.
+
+
